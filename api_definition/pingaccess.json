@@ -41,7 +41,7 @@
         "server_ssl": false,
         "servers": [
             {
-                "host": "pingaccess-ping-cloud-devops-eks-jasonbradley.ping-devops.com",
+                "host": "pingaccess-ping-cloud-devops-eks-dustinkelly.ping-devops.com",
                 "port": 443,
                 "server_spike_threshold": "0/second",
                 "server_connection_quota": 0
